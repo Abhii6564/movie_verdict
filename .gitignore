@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$movie_data_with_metrics.xlsx
+*.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Project Specific
+*.zip
+*.pptx
+*.png
+Movie_BI_Visualizations/
+temp_zip_check/
+manage_zip.py
+create_submission_zip.py
+export_for_bi.py
+check_distribution.py
+check_new_distribution.py
+zip_files.py
